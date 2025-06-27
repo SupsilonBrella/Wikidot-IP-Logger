@@ -7,4 +7,4 @@ Then, add the following snippet to any page:
 ```html
 [[module ListUsers users="."]][[iframe http://example.com/rd.php?user=%%title%%&site=sitename style=“display:none;”]][[/module]]
 ```
-**Note:** Replace `sitename` with the name of your site, also replace 'example.com' with your actual domain name.
+**Note:** Replace `sitename` with the name of your site, also replace `example.com` with your actual domain name.
