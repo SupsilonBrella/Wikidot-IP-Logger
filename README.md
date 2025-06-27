@@ -1,5 +1,5 @@
 # Wikidot-IP-Logger
-A simple IP logging tool for Wikidot sites, developed using PHP.
+A simple IP logging tool for Wikidot sites, developed using PHP.This logger captures each visitor’s IP address, username, and the specific Wikidot site they accessed.
 
 **Usage**
 
