@@ -2,6 +2,7 @@
 A simple IP logging tool for Wikidot sites, developed using PHP.
 
 Usage
+
 Deploy all the code files into a single directory on your server.
 Then, add the following snippet to any page:
 ```html
