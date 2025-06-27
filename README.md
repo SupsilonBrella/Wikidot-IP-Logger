@@ -1,2 +1,2 @@
 # Wikidot-IP-Logger
-An IP logging tool for Wikidot sites, developed using PHP.
+A simple IP logging tool for Wikidot sites, developed using PHP.
